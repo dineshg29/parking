@@ -1,4 +1,13 @@
 {
-  "parking": "dinesh
-
+  "parking": {
+    "id": 1,
+    "parking_images": ["sd.jpg"],
+    "name": "Phoenix Parking",
+    "address": "1, Phoenix Market City, Velachery, Chennai - 42",
+    "location": { "lat": 12.9549804, "lng": 80.156809 },
+    "slots": 20,
+    "distance": "0.2 mi",
+    "type": ["self parking", "covered"],
+    "facilities": ["self park", "uncovered", "surveillance", "accessible"]
+  }
 }
